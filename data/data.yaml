@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/space_station_safety/dataset/train/images
+val:   /content/drive/MyDrive/space_station_safety/dataset/val/images
+
+nc: 7
+names: ['helmet','fire_extinguisher','first_aid','oxygen_mask','toolbox','gas_leak_detector','exit_sign']
