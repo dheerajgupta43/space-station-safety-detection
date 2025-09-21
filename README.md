@@ -38,11 +38,10 @@ yolo predict model=artifacts/best.pt source=dataset/val/images save=True conf=0.
 
 ---
 
-## Example predictions (add your generated files under `artifacts/predictions/`)
-Replace `sample1.jpg` / `sample2.jpg` with real filenames from your Drive/predictions:
+## Example predictions 
 
-![Prediction 1](artifacts/predictions/sample1.jpg)
-![Prediction 2](artifacts/predictions/sample2.jpg)
+![Prediction 1](artifacts/predictions/000001873_light_unclutter.jpg)
+![Prediction 2](artifacts/predictions/000001864_light_unclutter.jpg)
 
 ---
 
