@@ -5,3 +5,9 @@ runs/
 *.zip
 *.ipynb_checkpoints
 .DS_Store
+"data/" 
+"weights/" 
+"*.zip" 
+"*.tar.gz" 
+"*.h5" 
+"*.pt" 
